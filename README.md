@@ -1,13 +1,14 @@
 # Henrique Santos 
 
-Graduando em ADS📜
+#### - 📜 Graduando em Análise e Desenvolviemnto de Sistemas 
 
-- Database
-- Backend
-- Desenvolvimento Mobile
-- Qualidade de Software
+### Interesses:
+- 💾 Database 
+- 🖥️ Backend  
+- 💻 Mobile   
+- ✅ Qualidade de Software
 
-### Redes:
+### Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-b-santos-1758351a3/) 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Mortten-Fracktion)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
