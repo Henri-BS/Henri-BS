@@ -1,7 +1,5 @@
 ## Henrique Santos
 
-<hr>
-
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
 - ☕ Conhecimentos em Desenvolvimento Web Backend com Java e Spring Boot
