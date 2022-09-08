@@ -6,7 +6,7 @@
 
 - ☕ Conhecimentos em Desenvolvimento Web Backend com Java e Spring Boot
 
-- 🖥️ Entendimento sobre Frontend básico com TypeScript com ReactJS
+- 🖥️ Entendimento sobre Frontend básico com TypeScript e ReactJS
 
 - 🪶 Interesse de especialização nas áreas de Arquitetura de Computação em Nuvem e Projetos de Sistemas.
 <br/>
