@@ -25,5 +25,5 @@
   </div>
 <div align="justify">
 
- ### Desenvolvendo majoritariamente através do Padrão de Projeto Repository com a implementação de operações em CRUD, JPA e Query Repository da Spring Framework juntamente com o banco de dados PostgreSQL. Noções básicas sobre o consumo de API's e requisições com a bilioteca Axios do ReactJS, bem como bibliotecas como: Apex Charts, Bootstrap, Moment e entre outras. Entendimento em implantação de sistemas em nuvem através do Heroku e Netlify.
+ ### Desenvolvendo majoritariamente através do Padrão de Projeto Repository com a implementação de operações em CRUD, JPA e Query Repository da Spring Framework juntamente com o banco de dados PostgreSQL. Noções básicas sobre o consumo de API's e requisições com a bilioteca Axios do ReactJS, bem como as bibliotecas: Apex Charts, Bootstrap, Moment e entre outras. Entendimento em implantação de sistemas em nuvem através do Heroku e Netlify.
 </div>
