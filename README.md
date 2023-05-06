@@ -2,9 +2,11 @@
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
+- 📜 Pós-Graduando em Desenvolvimento Backend
+
 - ☕ Conhecimentos em Desenvolvimento Web Backend com Java e Spring Boot
 
-- 🖥️ Entendimento sobre Frontend básico com TypeScript e ReactJS
+- 🖥️ Noções básicas em Frontend com TypeScript e ReactJS
 
 - 🪶 Interesse de especialização nas áreas de Arquitetura de Computação em Nuvem e Projetos de Sistemas.
 <br/>
