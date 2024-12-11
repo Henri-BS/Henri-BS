@@ -58,16 +58,8 @@ Os principais sistemas que compõe o meu portifólio são: gerenciadores de prod
 ## Status
 
 <div>
-  <table>
-    <tr>
-      <td>
 
-[![Henri-BS github streak](https://github-readme-streak-stats.herokuapp.com/?user=Henri-BS&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-      </td>
-      <td>
 [![Henri-BS](https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-BS&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-      </td>
-    </tr>
-  </table>
+    
  </div>
  
