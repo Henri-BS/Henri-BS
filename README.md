@@ -54,12 +54,4 @@ Os principais sistemas que compõe o meu portifólio são: gerenciadores de prod
   
 
   </div>
-
-## Status
-
-<div>
-
-[![Henri-BS](https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-BS&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
- </div>
  
